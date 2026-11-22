@@ -3,7 +3,7 @@
 A small support-ticket system for Arvo Systems' nine support agents. It replaces the shared spreadsheet and WhatsApp group.
 Built from the story in *Hiring Test - Full Stack Developer*: a Next.js app (screens and API) with a PostgreSQL database.
 
-- Live URL: _add your Vercel URL here_
+- Live URL: https://frontdesk-sage.vercel.app
 - What I did not finish, and why: see [NOTE.md](./NOTE.md)
 
 ## What it does
